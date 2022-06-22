@@ -37,7 +37,7 @@ const aboutMe = {
 -   Frontend: HTML, CSS, Javascript, ReactJS, Axios, Redux.
 -   Backend: NodeJS, ExpressJS, Sequelize, PostgreSQL.
 
-<img src="https://github.com/cicarelligiuliano/cicarelligiuliano/blob/main/images/Pokemon.gif?raw=true">
+<img src="https://github.com/AugustoLoza/AugustoLoza/blob/main/images/Pokemon.gif?raw=true">
 
 
 
