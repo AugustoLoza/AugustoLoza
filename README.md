@@ -1,10 +1,10 @@
 <img width="100%" height="250px" src="https://github.com/AugustoLoza/AugustoLoza/blob/main/images/Banner.png?raw=true" />
 <!-- <img  src="https://github.com/Whit3-Devs/Whit3-Devs/blob/master/images/AboutMe.png?raw=true" /> -->
 
-<h3 align="center">I am 27 years old Argentinian. I am currently focused on full stack web development and learn new technologies to improve my skills. The past 2021 year, i rediscovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!</h3>
+<h3 align="center">I am 30 years old Argentinian. I am currently focused on full stack web development and learn new technologies to improve my skills. The past 2021 year, i rediscovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!</h3>
 <br/>
 
--   🔭 I’m currently working on **Korenus**
+-   🔭 I’m currently working on **WePlan**
 
 -   📝 Connect with me by Linkedin [https://www.linkedin.com/in/augusto-manuel-loza-serra/](https://www.linkedin.com/in/augusto-manuel-loza-serra/)
 
