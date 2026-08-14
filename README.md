@@ -32,7 +32,6 @@ const aboutMe = {
 
 ## [PokemonApp]
 
-#### Proyecto individual por el bootcamp de Henry. Para consolidar y fortalecer los conocimientos en:
 
 -   Frontend: HTML, CSS, Javascript, ReactJS, Axios, Redux.
 -   Backend: NodeJS, ExpressJS, Sequelize, PostgreSQL.
